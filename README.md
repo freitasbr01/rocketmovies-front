@@ -1,9 +1,5 @@
 # Rocket Movies
 
-<h1 align="center">
-    <img width="200px" alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/rocketseat-education/nlw-expert-html-css-js/blob/main/.github/logo.png?raw=true" />
-</h1>
-
 <h3 align="center"> 
 	Rocket Movies
 </h3>
