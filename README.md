@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center"> 
-	Quiz JavaScript
+	Rocket Movies
 </h3>
 
 <p align="center">
@@ -16,10 +16,9 @@
 
 ## 💻 Sobre o projeto
 
-Quiz - Nesse projeto foi desenvolvido um quiz sobre JavaScript para testar os conhecimentos técnicos e ter um retorno sobre a quantidade de questões acertadas.
+Rocket Movies - Nesse projeto foi desenvolvido uma aplicaçãoo web interativa e intuitiva, projetada para os amantes de filmes. A plataforma permite aos usuários criar uma conta pessoal, através da qual podem acessar e personalizar sua própria lista de filmes favoritos. Oferece também a funcionalidade única de avaliar cada filme que o usuário assistiu, proporcionando uma experiência de usuário rica e personalizada. Esta aplicação é perfeita para qualquer pessoa que queira manter um registro de todos os filmes que assistiu e compartilhar suas opiniões sobre eles.
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo ensinado fica disponível durante uma semana.
+Projeto desenvolvido durante o curso explorer da **Rocketseat**.
 
 ---
 
@@ -27,10 +26,10 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **ReactJS**
 
 ---
 
