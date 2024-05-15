@@ -14,9 +14,10 @@
 
 Esse projeto apresenta uma aplicação web interativa e intuitiva, projetada para os amantes de filmes. A plataforma permite aos usuários criar uma conta pessoal, através da qual podem acessar e personalizar sua própria lista de filmes favoritos. Oferece também a funcionalidade de avaliar cada filme que o usuário assistiu, proporcionando uma experiência de usuário rica e personalizada. Esta aplicação é perfeita para qualquer pessoa que queira manter um registro de todos os filmes que assistiu e compartilhar suas opiniões sobre eles.
 
+Link de acesso - <a href="https://rocketmovies01.netlify.app/">RocketNotes</a>
+
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
-https://rocketmovies01.netlify.app/
 
 ---
 
