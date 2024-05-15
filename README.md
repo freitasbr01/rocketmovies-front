@@ -16,6 +16,8 @@ Esse projeto apresenta uma aplicação web interativa e intuitiva, projetada par
 
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
+https://rocketmovies01.netlify.app/
+
 ---
 
 ## 🛠 Tecnologias
