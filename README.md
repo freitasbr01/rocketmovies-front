@@ -1,7 +1,7 @@
-## Rocket Movies
+## RocketMovies
 
 <h3 align="center"> 
-	Rocket Movies
+	RocketMovies
 </h3>
 
 <p align="center">
