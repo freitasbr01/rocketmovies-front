@@ -12,8 +12,5 @@ export const Container = styled.button`
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  
-  /* > svg {
-    width: 1.6rem;
-  } */
+
 `;

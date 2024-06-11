@@ -42,8 +42,7 @@ export const Form = styled.form`
     text-align: center;
     color: ${({ theme }) => theme.COLORS.PINK};    
   }
-
-  
+    
 `;
 
 export const Background = styled.div`

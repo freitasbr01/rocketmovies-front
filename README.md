@@ -1,7 +1,7 @@
 ## RocketMovies
 
 <h1 align="center">
-    <img width="200px" alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/rocketseat-education/nlw-expert-html-css-js/blob/main/.github/logo.png?raw=true" />
+    <img width="200px" alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/freitasbr01/rocketmovies-front/blob/main/src/assets/Rocketmovies.png" />
 </h1>
 
 <h3 align="center"> 

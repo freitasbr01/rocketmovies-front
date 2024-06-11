@@ -35,7 +35,6 @@ export const Container = styled.div`
     width: 100%;
     height: 5.6rem;
 
-    /* padding-left: 1.2rem; */
     color: ${({ theme }) => theme.COLORS.WHITE};
     text-align: center;
 

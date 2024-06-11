@@ -24,8 +24,8 @@ export function Profile() {
 
   const avatarUrl = user.avatar ? `${api.defaults.baseURL}/files/${user.avatar}` : avatarPlaceholder;
 
-  const [avatar, setAvatar] = useState(avatarUrl); // É o estado que exibi o avatar.
-  const [avatarFile, setAvatarFile] = useState(null); // É o estado que vai carregar a nova imagem selecionada. Guarda o arquivo selecionado no backend.
+  const [avatar, setAvatar] = useState(avatarUrl);
+  const [avatarFile, setAvatarFile] = useState(null);
 
   const navigate = useNavigate();
 

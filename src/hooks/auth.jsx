@@ -75,7 +75,6 @@ function AuthProvider({ children }) {
     }
 
   }, []);
-  // O useEffect foi usado aqui porque após o login caso a pagina seja atualizada, o perfil será deslogado, para evitar isso guardamos as informações no localstorage e depois recuperamos ele e definimos novamente o setData.
 
   return (
     <AuthContext.Provider value={{
