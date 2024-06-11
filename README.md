@@ -1,12 +1,8 @@
-## RocketMovies
+<h1 align="center">RocketMovies</h1>
 
 <h1 align="center">
-    <img width="600px" alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/freitasbr01/rocketmovies-front/blob/main/src/assets/Rocketmovies.png" />
+    <img width="700px" alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/freitasbr01/rocketmovies-front/blob/main/src/assets/Rocketmovies.png" />
 </h1>
-
-<h3 align="center"> 
-	RocketMovies
-</h3>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
